@@ -27,7 +27,7 @@ Not just finding bugs, but understanding *why* they happen — and how to design
 
 ---
 
-### 🧾 [Web3 Security Portfolio](./results-detailed.md)  
+### 🧾 [Web3 Security Portfolio](./Web3 Security Portfolio.md)  
 Structured table with project types, findings, roles, and placements.
 
 ### 🐛 [Interesting Bugs Found by Me](./bugs.md)  
