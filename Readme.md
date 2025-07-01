@@ -1,6 +1,7 @@
 # Full Portfolio – BengalCatBalu
 
-Welcome to my extended portfolio.  
+Welcome to my extended portfolio.
+
 Here you’ll find results from past audits, selected bugs I’ve found, and structured notes that reflect how I approach protocol security.
 
 ---
@@ -8,7 +9,7 @@ Here you’ll find results from past audits, selected bugs I’ve found, and str
 ## 👤 About Me
 
 I started out in math — the kind that makes you think in graphs, invariants, and proofs.  
-In school, I competed in math olympiads and spent a lot of time exploring discrete structures and formal logic. That mindset stuck with me.
+In school, I succesfully competed in math olympiads and spent a lot of time exploring discrete structures and formal logic. That mindset stuck with me.
 
 Later I studied software engineering, which gave me the tools to build. But what really drew me in was the way complex systems fail — subtly, structurally, and sometimes beautifully.
 
