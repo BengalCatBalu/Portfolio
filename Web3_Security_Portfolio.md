@@ -1,5 +1,17 @@
-## 📊 Web3 Security Results
 
+## 🧭 Scope & Tools
+
+I’ve worked across various protocol types — with a primary focus on deep DeFi architecture.  
+I also have a strong understanding of Ethereum internals and Layer 2 systems, especially optimistic rollups.
+
+**Languages in scope:**  
+- Solidity  
+- Rust  
+
+**Currently exploring:**  
+- Move
+
+## 📊 Web3 Security Results
 ### Public Competitions
 
 This table summarizes my audit results across various public competitions — including the role I took, type of protocol, and number of findings findings.
