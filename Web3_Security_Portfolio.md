@@ -20,7 +20,6 @@ This table summarizes my audit results across various public competitions — in
 | [**Debita Finance**](https://audits.sherlock.xyz/contests/627)                            | Lending                  | Solo         | 1 High, 7 Medium                    | 16           |
 | [**Royco Protocol**](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)                            | Staking / Rewards        | Co-audit     | 2 High, 1 Medium                    | 18           |
 
-
-### Private Competitions
-
-Coming Soon...
+**Summary:**  
+- 🥇 4× 1st place  
+- 🥈 1× 2nd place  
