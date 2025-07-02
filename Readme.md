@@ -18,27 +18,18 @@ I focus on smart contract architecture, DeFi mechanisms, Layer 2 systems, and th
 
 ---
 
-## ⭐️ Web3 Security Results
+## ⭐️ Web3 Security
 
-I’ve worked across various protocol types — from AMMs and vaults to bridges, governance logic, and L2 systems.
+#### 🧾 [Web3 Security Portfolio](./Web3_Security_Portfolio.md) - Structured table with project types, findings, roles, and placements.
 
-My focus is on edge cases, implicit assumptions, and architectural flaws.  
-Not just finding bugs, but understanding *why* they happen — and how to design them out.
-
----
-
-### 🧾 [Web3 Security Portfolio](./Web3_Security_Portfolio.md)  
-Structured table with project types, findings, roles, and placements.
-
-### 🐛 [Interesting Bugs Found by Me](./bugs.md)  
-Writeups of selected bugs with technical context and reasoning.
+#### 🐛 [Interesting Bugs Found by Me](./bugs.md) - Writeups of selected bugs with technical context and reasoning.
 
 ---
 
 ## 🔗 Contacts & Profiles
 
-- 🐦 [Twitter / X](https://twitter.com/BengalCatBalu)  
-- 🕵️‍♂️ [Cantina Profile](https://cantina.xyz/researchers/bengalcatbalu)
+- [Twitter / X](https://twitter.com/BengalCatBalu)  
+- [Cantina Profile](https://cantina.xyz/researchers/bengalcatbalu)
 
 ---
 
