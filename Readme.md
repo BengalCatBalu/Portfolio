@@ -22,7 +22,7 @@ I focus on smart contract architecture, DeFi mechanisms, Layer 2 systems, and th
 
 #### 🧾 [Web3 Security Portfolio](./Web3_Security_Portfolio.md) - Structured table with project types, findings, roles, and placements.
 
-#### 🐛 [Interesting Bugs Found by Me](./bugs.md) - Writeups of selected bugs with technical context and reasoning.
+#### 🐛 [Blog Posts && Research works](./) - coming soon...
 
 ---
 
