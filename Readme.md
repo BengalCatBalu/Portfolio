@@ -6,7 +6,7 @@ Here you’ll find results from past audits, selected bugs I’ve found, and str
 
 ---
 
-## 👤 About Me
+## About Me
 
 I started out in math — the kind that makes you think in graphs, invariants, and proofs.  
 In school, I succesfully competed in math olympiads and spent a lot of time exploring discrete structures and formal logic. That mindset stuck with me.
@@ -18,11 +18,11 @@ I focus on smart contract architecture, DeFi mechanisms, Layer 2 systems, and th
 
 ---
 
-## ⭐️ Web3 Security
+## Web3 Security
 
-#### 🧾 [Web3 Security Portfolio](./Web3_Security_Portfolio.md) - Structured table with project types, findings, roles, and placements.
+#### [Web3 Security Portfolio](./Web3_Security_Portfolio.md) - Structured table with project types, findings, roles, and placements.
 
-#### 🐛 [Blog Posts && Research works](./) - coming soon...
+#### [Blog Posts && Research works](./) - coming soon...
 
 ---
 
@@ -33,4 +33,4 @@ I focus on smart contract architecture, DeFi mechanisms, Layer 2 systems, and th
 
 ---
 
-🛠 This portfolio is a living document — new content is added as I go.
+This portfolio is a living document — new content is added as I go.
