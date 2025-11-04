@@ -23,7 +23,15 @@ Proven top results in public audit contests.
 | [**Metropolis**](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194)| Liquidity Management                      |                               4   |
 
 You can find all engagements on my public [Sherlock profile page](https://audits.sherlock.xyz/watson/BengalCatBalu)
-## Learning && Side Projects
+
+#### Highlights in numbers
+
+- 🥇 5× First Place on public competitions
+- 🧠 Top 3 in HM Count (Ranked among the top 3 auditors on Cantina by total number of High/Medium severity findings)
+- 🥈 1× Second Place on public competitions
+- 🔟 15× Top 10 (Placed in the Top 10 fifteen times across various advanced protocol audits.)
+
+### Learning && Side Projects
 
 | **Project / Learning**                                  | **Description**                                              |
 |--------------------------------------------------------|--------------------------------------------------------------|
@@ -31,7 +39,7 @@ You can find all engagements on my public [Sherlock profile page](https://audits
 | Read "Automated Market Makers" by Guillermo Angeris   | Deep dive into AMM mechanisms and their applications.       |
 | Finished Rarecode Rust Course | Completed full Rarecode Rust track — built strong foundations in ownership, lifetimes, and async Rust, with focus on secure smart contract development. |
 
-## Experience outside Web3:
+### Experience outside Web3:
 
 - Bachelor’s degree in Software Engineering
 - National-level winner of mathematics competitions
