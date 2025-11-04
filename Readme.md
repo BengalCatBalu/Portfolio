@@ -1,4 +1,4 @@
-Independent security researcher. Background in Software Engineering (B.Sc) with strong foundations in discrete math and linear algebra. Specializing in audits of complex smart contract architectures — AMMs, yield, lending - on any blockchain and off-chain systems.
+Independent Web3 security researcher. Background in Software Engineering (B.Sc) with strong foundations in discrete math and linear algebra. Specializing in audits of complex smart contract architectures — AMMs, yield, lending - on any blockchain and off-chain systems.
 
 📌 Twitter: [**BengalCatBalu**](https://x.com/BengalCatBalu)
 
@@ -29,3 +29,9 @@ Proven top results in public audit contests.
 |--------------------------------------------------------|--------------------------------------------------------------|
 | Finished Rareskills Rust Bootcamp                     | Completed intensive Rust bootcamp focused on Web3 security. |
 | Read "Automated Market Makers" by Guillermo Angeris   | Deep dive into AMM mechanisms and their applications.       |
+| Finished Rarecode Rust Course | Completed full Rarecode Rust track — built strong foundations in ownership, lifetimes, and async Rust, with focus on secure smart contract development. |
+
+## Experience outside Web3:
+
+- Bachelor’s degree in Software Engineering
+- National-level winner of mathematics competitions
