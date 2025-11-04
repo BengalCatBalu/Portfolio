@@ -22,7 +22,7 @@ Proven top results in public audit contests.
 | [**Mystic Finance (Dedicated Security Researcher)**](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8)                           | RWA-backed lending                             | 1🏅   |
 | [**Metropolis**](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194)| Liquidity Management                      |                               4   |
 
-
+You can find all engagements on my public [Sherlock profile page](https://audits.sherlock.xyz/watson/BengalCatBalu)
 ## Learning && Side Projects
 
 | **Project / Learning**                                  | **Description**                                              |
