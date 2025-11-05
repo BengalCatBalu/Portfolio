@@ -21,6 +21,7 @@ Proven top results in public audit contests.
 | [**Stability Dao**](https://cantina.xyz/code/e1c0be8d-0c3d-485a-a446-a582beb120b1/overview)                           | Yield Generating Strategies                             | 4   |
 | [**Mystic Finance (Dedicated Security Researcher)**](https://cantina.xyz/competitions/c160af78-28f8-47f7-9926-889b3864c6d8)                           | RWA-backed lending                             | 1🏅   |
 | [**Metropolis**](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194)| Liquidity Management                      |                               4   |
+| [**Super DCA Liquidity**](https://audits.sherlock.xyz/contests/1171)| Uniswap V4 Hook                      |                               3🥉   |
 
 You can find all engagements on my public [Sherlock profile page](https://audits.sherlock.xyz/watson/BengalCatBalu)
 
