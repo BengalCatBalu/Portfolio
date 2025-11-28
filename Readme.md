@@ -1,10 +1,8 @@
-Independent Web3 security researcher. Background in Software Engineering (B.Sc) with strong foundations in discrete math and linear algebra. Specializing in audits of complex smart contract architectures — AMMs, yield, lending - on any blockchain and off-chain systems.
+Independent Web3 security researcher. Background in Software Engineering (B.Sc) with strong foundations in discrete math and linear algebra. Focused on uncovering bugs in complex on-chain/off-chain architectures (Ethereum, Move, Rust).
 
 📌 Twitter: [**BengalCatBalu**](https://x.com/BengalCatBalu)
 
-### 🔍 Best Engagements   
-
-Proven top results in public audit contests. 
+### Public Engagements   
 
 | **Project**                                  | **Type**                                         |   Result |
 |---------------------------------------------|------------------------------------------------------|------|
@@ -25,12 +23,10 @@ Proven top results in public audit contests.
 
 You can find all engagements on my public [Sherlock profile page](https://audits.sherlock.xyz/watson/BengalCatBalu)
 
-#### Highlights in numbers
-
-- 🥇 5× First Place on public competitions
-- 🧠 Top 3 in HM Count (Ranked among the top 3 auditors on Cantina by total number of High/Medium severity findings)
-- 🥈 1× Second Place on public competitions
-- 🔟 15× Top 10 (Placed in the Top 10 fifteen times across various advanced protocol audits.)
+### Private Engagements
+| **Project**                                  |   **Company**                                       | Findings               | Report               |
+|---------------------------------------------|------------------------------------------------------|------------------------|----------------------|
+| Paxos Labs | Pashov Audit Group | 1M 3L| TBA|
 
 ### Learning && Side Projects
 
