@@ -24,9 +24,11 @@ Independent Web3 security researcher. Background in Software Engineering (B.Sc) 
 You can find all engagements on my public [Sherlock profile page](https://audits.sherlock.xyz/watson/BengalCatBalu)
 
 ### Private Engagements
-| **Project**                                  |   **Company**                                       | Findings               | Report               |
+| **Project**                                  |   **Company**                                       | Type               | Report               |
 |---------------------------------------------|------------------------------------------------------|------------------------|----------------------|
-| Paxos Labs | Pashov Audit Group | 1M 3L| TBA|
+| Paxos Labs | Pashov Audit Group | Staking| TBA|
+| Strong | Cyfrin | RWA | TBA|
+| Top Strike | Pashov Audit Group | Curve priced market | TBA|
 
 ### Learning && Side Projects
 
