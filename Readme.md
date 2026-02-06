@@ -49,7 +49,6 @@ All public engagements are available on my
 | Strata | Cyfrin | ERC-4626 Tranches | Private |
 | STBL | Cyfrin | Stablecoin, Vault, Real-World Assets, Rust, Stellar | Private |
 | Button | Cyfrin | HyperEVM, HyperCore | Private |
-| Hyperlend Staking | Pashov | Private |
 ---
 
 ## Learning & Side Projects
