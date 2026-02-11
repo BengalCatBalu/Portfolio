@@ -40,15 +40,17 @@ All public engagements are available on my
 
 ## Private Engagements
 
-| **Project** | **Audit Firm** | **Protocol Type** | **Report** |
+| **Project** | **Date** | **Audit Firm** | **Protocol Type** | **Report** |
 |------------|----------------|-------------------|------------|
-| Paxos Labs | Pashov Audit Group | Staking & Yield Infrastructure | Private |
-| Strong | Cyfrin | RWA Protocol | Private |
-| Top Strike | Pashov Audit Group | Curve-priced Market | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TopStrike-security-review_2025-12-18.pdf) |
-| Boundary | Cyfrin | Vault, Yield, Stablecoin | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-10-cyfrin-boundary-v2.2.pdf) |
-| Strata | Cyfrin | ERC-4626 Tranches | Private |
-| STBL | Cyfrin | Stablecoin, Vault, Real-World Assets, Rust, Stellar | Private |
-| Button | Cyfrin | HyperEVM, HyperCore | Private |
+| Paxos Labs | November 2025 | Pashov Audit Group | Staking & Yield Infrastructure | Private |
+| Strong | December 2025 | Cyfrin | RWA Protocol | Private |
+| Top Strike | December 2025 | Pashov Audit Group | Curve-priced Market | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TopStrike-security-review_2025-12-18.pdf) |
+| Boundary | January 2026 | Cyfrin | Vault, Yield, Stablecoin | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-10-cyfrin-boundary-v2.2.pdf) |
+| Strata | January 2026 | Cyfrin | ERC-4626 Tranches | Private |
+| STBL | January 2026 | Cyfrin | Stablecoin, Vault, Real-World Assets, Rust, Stellar | Private |
+| Button | February 2026 | Cyfrin | HyperEVM, HyperCore | Private |
+| Token Lock | February 2026 | Pashov Audit Group | Staking | Private |
+| Paxos Labs | February 2026 | Pashov Audit Group | Vault withdrawal Queue | Private |
 ---
 
 ## Learning & Side Projects
