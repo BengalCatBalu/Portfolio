@@ -41,7 +41,7 @@ All public engagements are available on my
 ## Private Engagements
 
 | **Project** | **Date** | **Audit Firm** | **Protocol Type** | **Report** |
-|------------|----------------|-------------------|------------|
+|------------|----------|-----------|-------------------|------------|
 | Paxos Labs | November 2025 | Pashov Audit Group | Staking & Yield Infrastructure | Private |
 | Strong | December 2025 | Cyfrin | RWA Protocol | Private |
 | Top Strike | December 2025 | Pashov Audit Group | Curve-priced Market | [Link](https://github.com/pashov/audits/blob/master/team/pdf/TopStrike-security-review_2025-12-18.pdf) |
