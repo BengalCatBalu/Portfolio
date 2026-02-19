@@ -57,6 +57,7 @@ All public engagements are available on my
 
 | **Topic** | **Description** |
 |----------|------------------|
+| [EIP Security Handbook](https://github.com/BengalCatBalu/EIP-Security-Handbook) author | A structured security research that tracks how significant EIPs and ERCs have influenced smart contract development on Ethereum |
 | RareSkills Rust Bootcamp | Intensive Rust training with focus on Web3 security and low-level reasoning |
 | *Automated Market Makers* (Guillermo Angeris) | Deep dive into AMM math, pricing functions, and market design |
 | Rarecode Rust Course | Advanced Rust: ownership, lifetimes, async patterns, and secure contract development |
