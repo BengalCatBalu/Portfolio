@@ -48,7 +48,7 @@ All public engagements are available on my
 | Boundary | January 2026 | Cyfrin | Vault, Yield, Stablecoin | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-10-cyfrin-boundary-v2.2.pdf) |
 | Strata | January 2026 | Cyfrin | ERC-4626 Tranches | Private |
 | STBL | January 2026 | Cyfrin | Stablecoin, Vault, Real-World Assets, Rust, Stellar | Private |
-| Button | February 2026 | Cyfrin | HyperEVM, HyperCore | Private |
+| Button | February 2026 | Cyfrin | HyperEVM, HyperCore | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-13-cyfrin-button-update-v2.0.pdf) |
 | Token Lock | February 2026 | Pashov Audit Group | Staking | Private |
 | Paxos Labs | February 2026 | Pashov Audit Group | Vault withdrawal Queue | Private |
 ---
