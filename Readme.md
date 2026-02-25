@@ -48,16 +48,17 @@ All public engagements are available on my
 | Boundary | January 2026 | Cyfrin | Vault, Yield, Stablecoin | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-01-10-cyfrin-boundary-v2.2.pdf) |
 | Strata | January 2026 | Cyfrin | ERC-4626 Tranches | Private |
 | STBL | January 2026 | Cyfrin | Stablecoin, Vault, Real-World Assets, Rust, Stellar | Private |
+| Paxos Labs | February 2026 | Pashov Audit Group | Vault withdrawal Queue | Private |
 | Button | February 2026 | Cyfrin | HyperEVM, HyperCore | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-13-cyfrin-button-update-v2.0.pdf) |
 | Token Lock | February 2026 | Pashov Audit Group | Staking | Private |
-| Paxos Labs | February 2026 | Pashov Audit Group | Vault withdrawal Queue | Private |
+| ByteStrike | February 2026 | Cyrfrin | Perpetual Dex | Private |
 ---
 
 ## Learning & Side Projects
 
 | **Topic** | **Description** |
 |----------|------------------|
-| [EIP Security Handbook](https://github.com/BengalCatBalu/EIP-Security-Handbook) author | A structured security research that tracks how significant EIPs and ERCs have influenced smart contract development on Ethereum |
+| [EIP Security Handbook](https://github.com/BengalCatBalu/EIP-Security-Handbook) | A structured security research that tracks how significant EIPs and ERCs have influenced smart contract development on Ethereum |
 | RareSkills Rust Bootcamp | Intensive Rust training with focus on Web3 security and low-level reasoning |
 | *Automated Market Makers* (Guillermo Angeris) | Deep dive into AMM math, pricing functions, and market design |
 | Rarecode Rust Course | Advanced Rust: ownership, lifetimes, async patterns, and secure contract development |
