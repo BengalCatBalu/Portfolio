@@ -3,9 +3,8 @@
 Independent **Ethereum Security Researcher** with a strong focus on auditing complex **DeFi protocols**.
 
 Background in Software Engineering (B.Sc), with solid foundations in discrete mathematics and linear algebra.  
-I specialize in uncovering subtle vulnerabilities in smart contract systems where **economic logic, protocol architecture, and execution semantics intersect**.
 
-Primary focus: **Ethereum & DeFi security**  
+Primary focus: **Ethereum security**  
 Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**
 
 📌 X (Twitter): [**@BengalCatBalu**](https://x.com/BengalCatBalu)
