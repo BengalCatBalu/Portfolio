@@ -4,8 +4,8 @@ Independent **Ethereum Security Researcher** with a strong focus on auditing com
 
 Background in Software Engineering (B.Sc), with solid foundations in discrete mathematics and linear algebra.  
 
-Primary focus: **Ethereum security**  
-Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**
+Primary focus: **Ethereum security**
+Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**, **Hyperliquid**, **ZK Audits** (soon) 
 
 📌 X (Twitter): [**@BengalCatBalu**](https://x.com/BengalCatBalu)
 
@@ -51,6 +51,10 @@ All public engagements are available on my
 | Button | February 2026 | Cyfrin | HyperEVM, HyperCore | [Link](https://github.com/Cyfrin/cyfrin-audit-reports/blob/main/reports/2026-02-13-cyfrin-button-update-v2.0.pdf) |
 | Token Lock | February 2026 | Pashov Audit Group | Staking | Private |
 | ByteStrike | February 2026 | Cyrfrin | Perpetual Dex | Private |
+| T3tris Finance | April 2026 | Cyfrin | 4626 Vaults | Private |
+| RAAC | May 2026 | Pashov | AMM | Private |
+| RAAC | May 2026 | Pashov | Governance | Private |
+| Bounce Tech | May 2026 | Phage Security | HyperEVM | [Link](https://github.com/phage-security/audits/blob/main/2026-04-bounceTech.pdf) |
 ---
 
 ## Learning & Side Projects
@@ -61,6 +65,7 @@ All public engagements are available on my
 | RareSkills Rust Bootcamp | Intensive Rust training with focus on Web3 security and low-level reasoning |
 | *Automated Market Makers* (Guillermo Angeris) | Deep dive into AMM math, pricing functions, and market design |
 | Rarecode Rust Course | Advanced Rust: ownership, lifetimes, async patterns, and secure contract development |
+| ZK Bootcamp Rareskills | May 2026 - July 2026 cohort. |
 
 ---
 
