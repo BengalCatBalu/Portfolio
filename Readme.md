@@ -5,6 +5,7 @@ Independent **Ethereum Security Researcher** with a strong focus on auditing com
 Background in Software Engineering (B.Sc), with solid foundations in discrete mathematics and linear algebra.  
 
 Primary focus: **Ethereum security**
+
 Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**, **Hyperliquid**, **ZK Audits** (soon) 
 
 📌 X (Twitter): [**@BengalCatBalu**](https://x.com/BengalCatBalu)
