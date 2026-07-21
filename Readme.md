@@ -1,20 +1,18 @@
 ## Profile Summary
 
-Independent **Ethereum Security Researcher** with a strong focus on auditing complex **DeFi protocols**.
+Independent **Ethereum Security Researcher**
 
 Background in Software Engineering (B.Sc), with solid foundations in discrete mathematics and linear algebra.  
 
 Primary focus: **Ethereum security**
 
-Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**, **Hyperliquid**, **ZK Audits** (soon) 
+Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**, **Hyperliquid**, **ZK** 
 
-📌 X (Twitter): [**@BengalCatBalu**](https://x.com/BengalCatBalu)
+X (Twitter): [**@BengalCatBalu**](https://x.com/BengalCatBalu)
 
 ---
 
 ## Public Engagements
-
-> Ordered by impact and relevance to Ethereum / DeFi security
 
 | **Project** | **Protocol Type** | **Result** |
 |------------|-------------------|-----------|
@@ -31,7 +29,7 @@ Secondary experience: **Rust-based smart contracts (Soroban / Stellar)**, **Hype
 | [**Metropolis**](https://cantina.xyz/competitions/076935b1-2706-48c6-bf0a-b3656aa24194) | Liquidity & Market Making System | 4 |
 | [**StakeUp Bloom V2**](https://cantina.xyz/competitions/61087007-c7e9-4c4e-9d90-4e118933fecf) | Stablecoin & Yield System | 6 |
 | [**Succinct**](https://cantina.xyz/competitions/bd882748-077e-4e55-853f-f8df70109dbb) | Governance & ZK-related Infrastructure | 4 |
-| [**Aquarius AMM (Rust 🦀)**](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/overview) | AMM (Uniswap & Curve-style, Rust) | Low-Pot Winner |
+| [**Aquarius AMM (Rust)**](https://cantina.xyz/code/990ce947-05da-443e-b397-be38a65f0bff/overview) | AMM (Uniswap & Curve-style, Rust) | Low-Pot Winner |
 
 All public engagements are available on my  
 [Sherlock profile](https://audits.sherlock.xyz/watson/BengalCatBalu)
