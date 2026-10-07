@@ -54,6 +54,17 @@ All public engagements are available on my
 | RAAC | May 2026 | Pashov | AMM | Private |
 | RAAC | May 2026 | Pashov | Governance | Private |
 | Bounce Tech | May 2026 | Phage Security | HyperEVM | [Link](https://github.com/phage-security/audits/blob/main/2026-04-bounceTech.pdf) |
+| Ditto | July 2026 | Cyfrin | Prediction Market | Private |
+| Qiro | August 2026 | Cyfrin | Rwa, Lending | Private |
+| K3 | August 2026 | Pashov | Lending | Private |
+| Paxos | September 2026 | Pashov | Chainlink Integration | Private |
+| Reserve | September 2026 | Pashov | Lending | Private |
+| Bio | August 2026 | Pashov | 4626 | Private |
+| Moda Renewal | September 2026 | Cyfrin | Rent Rwa | Private |
+| Note Systems | September - October 2026 | Cyfrin | Stock protection | Private |
+| Securitize Tempo Vault | October 2026 | Cyfrin | Tempo Integration | Private |
+
+
 ---
 
 ## Learning & Side Projects
